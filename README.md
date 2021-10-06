@@ -1,5 +1,6 @@
 # Inventory-Management-Using-MERN-Stack
 
+![alt text](https://github.com/Awantikashri/Inventory-Management-Using-MERN-Stack/blob/main/Screenshot%202021-10-07%20at%2012.53.08%20AM.png?raw=true)
 This project was built using MERN stack for CRUD operations
 
 ## Functionalities
