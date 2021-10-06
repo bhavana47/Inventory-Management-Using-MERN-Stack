@@ -1,0 +1,65 @@
+body{
+  background-color: #d9d9d9;
+}
+.navbar-brand{
+  margin-left: 10px;
+}
+h3{
+  color: #d9d9d9;
+  font-size: 40px;
+}
+.Product-List{
+  justify-content: center;
+  width: fit-content;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #284b63;
+  margin-left: 300px;
+  display: flex;
+			justify-content: center;
+			flex-direction: column;
+			padding: 10px;
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			-webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			-moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            border-radius: 9px;
+}
+
+.Create-Product
+{
+  color: #d9d9d9;
+  justify-content: center;
+  width: fit-content;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #353535;
+  margin-left: 500px;
+  display: flex;
+			justify-content: center;
+			flex-direction: column;
+			padding: 10px;
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			-webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			-moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            border-radius: 9px;
+}
+.Form
+{
+  width: 500px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #284b63;
+}
+#button
+{
+  text-align: center;
+}
+table{
+  background-color: #d9d9d9;
+  height: 100px;
+  overflow-y:scroll;
+}
+.Table{
+  height:380px;
+  overflow:auto;
+}
